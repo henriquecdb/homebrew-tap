@@ -1,8 +1,8 @@
 cask "indy-schedule" do
-  version "0.1.2"
-  sha256 "7eb5b05c7880dfe046c8c09380046563e6041330b052b4e826963f8b45a961fe"
+  version "0.1.3"
+  sha256 "acd046f60f119bd18a792079240e118d370f5608e3ff954918800fdbac1a07ce"
 
-  url "https://github.com/henriquecdb/indy-schedule/releases/download/v0.1.2/indy-schedule.zip"
+  url "https://github.com/henriquecdb/indy-schedule/releases/download/v0.1.3/indy-schedule.zip"
   name "Indy Schedule"
   desc "Um aplicativo macOS minimalista para acompanhar o calendário da temporada 2026 da IndyCar Series."
   homepage "https://github.com/henriquecdb/indy-schedule"
